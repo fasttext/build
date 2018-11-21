@@ -1,4 +1,4 @@
-# pre-built fastText binaries
+## pre-built fastText binaries
 
 *View and edit this repo at [github.com/fasttext/build](https://github.com/fasttext/build)*
 
@@ -6,9 +6,9 @@
 
 To make it fast and easy to use fastText on virtual machines programmatically, we have pre-built binaries for top platforms.
 
-## Install
+### Install
 
-### Ubuntu
+#### Ubuntu
 Built and tested on Google Compute Engine image `'ubuntu'` (Ubuntu 18.04.1 LTS (GNU/Linux 4.15.0-1024-gcp x86_64))
 ```
 wget http://fasttext.github.io/build/ubuntu-0.1.0.tar
