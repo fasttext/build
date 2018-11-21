@@ -1,4 +1,4 @@
-# fastText pre-built binaries
+# pre-built fastText binaries
 
 [Installing and building **fastText**](https://github.com/facebookresearch/fastText#building-fasttext-using-make-preferred) on a clean Ubuntu machine requires `make` which requires `apt-get` and a minute or so of computing time.
 
