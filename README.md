@@ -1,5 +1,7 @@
 # pre-built fastText binaries
 
+*View and edit this repo at [github.com/fasttext/build](https://github.com/fasttext/build)*
+
 [Installing and building **fastText**](https://github.com/facebookresearch/fastText#building-fasttext-using-make-preferred) on a clean Ubuntu machine requires `make` which requires `apt-get` and a minute or so of computing time.
 
 To make it fast and easy to use fastText on virtual machines programmatically, we have pre-built binaries for top platforms.
